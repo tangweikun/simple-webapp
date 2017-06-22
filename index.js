@@ -2,7 +2,7 @@ const Koa = require('koa')
 const app = new Koa()
 
 app.use(ctx => {
-  ctx.body = 'Hello Wor142441'
+  ctx.body = 'Hell142441'
 })
 
 app.listen(9722)
